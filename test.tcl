@@ -20,6 +20,9 @@ pack $statusbar_frame -side bottom -fill both -padx 0 -pady 0
 	set sizegrip [ttk::sizegrip $statusbar_frame.sizegrip]
 	pack $sizegrip -side right -anchor se
 	
+set button [button .button -text "Close"]
+pack $button -side top 
+
 set ::opengl_frame [ttk::frame .opengl_frame -borderwidth 0]
 pack $::opengl_frame -side top -fill both -expand 1
 
