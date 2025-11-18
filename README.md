@@ -4,4 +4,5 @@ This project provides a simple example of how to embed an OpenGL renderer into a
 
 Screenshot
 -
-<img width="733" height="669" alt="image" src="https://github.com/user-attachments/assets/c34d2b85-291b-4bee-843a-51094b7d1ac7" />
+<img width="821" height="520" alt="image" src="https://github.com/user-attachments/assets/dff86381-ebbd-4720-a13f-745b791ca00e" />
+
